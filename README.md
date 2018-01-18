@@ -1,7 +1,9 @@
 # Amiga-TLPatch-2.04
 Tool to update the exception text in the Amiga translator library improving text to speech pronunciation
 
-Originally submitted to Aminet Christmas 1994.
+Originally submitted to Aminet on Christmas 1994.
+
+Aminet field | Description
 
 Short:        Patch WB 2.04 translator.library
 Author:       Kenneth Jennings
